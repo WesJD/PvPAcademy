@@ -1,0 +1,8 @@
+name: PvPAcademy
+version: ${project.version}
+main: net.wesjd.pvpacademy.PvPAcademy
+authors: [WesJD]
+website: https://wesjd.net
+commands:
+  suicide:
+    aliases: [kill, die, death, bye]
